@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="BOX Demo" max_length="40" name="x_snc_box_demo_app_box_demo" type="collection">
+        <element label="Approval" max_length="40" name="approval" type="string"/>
+        <element label="Approval Journal" max_length="40" name="approval_journal" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Box Comment" max_length="1024" name="u_box_comment" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Box File Info" max_length="2048" name="u_box_file_info" read_only="true" type="string"/>
+        <element label="File Attachment" mandatory="true" max_length="40" name="u_file_attachment" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="File Name" mandatory="true" max_length="40" name="u_file_name" type="string"/>
+    </element>
+</database>
