@@ -44,7 +44,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>File Attachment</question_text>
+        <question_text>Attach file you want to upload to BOX</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -68,14 +68,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-05 01:49:51</sys_created_on>
         <sys_id>b492e42f1bae8110e44e3193cc4bcb11</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>File Attachment</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Attach file you want to upload to BOX</sys_name>
         <sys_package display_value="BOX Demo App" source="x_snc_box_demo_app">1786ded31b850d10d21e7774cc4bcb19</sys_package>
         <sys_policy/>
         <sys_scope display_value="BOX Demo App">1786ded31b850d10d21e7774cc4bcb19</sys_scope>
         <sys_update_name>item_option_new_b492e42f1bae8110e44e3193cc4bcb11</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-05 01:50:51</sys_updated_on>
+        <sys_updated_on>2022-04-05 05:08:03</sys_updated_on>
         <table/>
         <tooltip/>
         <type>33</type>

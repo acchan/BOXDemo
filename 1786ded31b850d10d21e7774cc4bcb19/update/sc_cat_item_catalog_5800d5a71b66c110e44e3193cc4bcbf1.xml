@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="BOX Upload">6092e02f1bae8110e44e3193cc4bcbd1</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-05 05:08:19</sys_created_on>
+        <sys_id>5800d5a71b66c110e44e3193cc4bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.BOX Upload</sys_name>
+        <sys_package display_value="BOX Demo App" source="x_snc_box_demo_app">1786ded31b850d10d21e7774cc4bcb19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BOX Demo App">1786ded31b850d10d21e7774cc4bcb19</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5800d5a71b66c110e44e3193cc4bcbf1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-05 05:08:19</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
